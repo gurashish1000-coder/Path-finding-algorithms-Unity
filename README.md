@@ -1,4 +1,4 @@
-# CSC375-project
+# Path Finding Algorithms Visualized
 ## Requirements :
 To run this code you will need Unity 2019.4. 
 Once that is installed, you can open ```SampleScene.unity``` to open the project.
